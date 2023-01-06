@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos'>
+    <pages>
+        <page name='v1'/>
+        <page name='v2'/>
+        <page name='v3'/>
+        <page name='v4'/>
+        <page name='v5'/>
+        <page name='v6'/>
+        <page name='v7'/>
+        <page name='v8'/>
+        <page name='v9'/>
+    </pages>
+</playground>
